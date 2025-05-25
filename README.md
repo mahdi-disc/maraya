@@ -78,7 +78,7 @@ maraya/
 
 ## 📖 Documentation
 
-Coming soon at: [https://maraya.io/docs](https://maraya.io/docs) *(placeholder)*
+Coming soon at: [https://maraya.io/docs](https://maraya.io/docs)
 
 ---
 
