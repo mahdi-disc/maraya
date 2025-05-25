@@ -53,14 +53,16 @@ The system is structured into **three core layers**:
 
 ## 📁 Repository Structure (Planned)
 
+```bash
 maraya/
-├── services/ # Python modules for scanning and IoC extraction
-├── backend/ # Spring Boot backend APIs
-├── frontend-web/ # React dashboard
-├── frontend-mobile/ # React Native mobile app
-├── docs/ # Docusaurus documentation site
+├── services/           # Python modules for scanning and IoC extraction
+├── backend/            # Spring Boot backend APIs
+├── frontend-web/       # React dashboard
+├── frontend-mobile/    # React Native mobile app
+├── docs/               # Docusaurus documentation site
 ├── README.md
 └── LICENSE
+```
 
 
 ---
